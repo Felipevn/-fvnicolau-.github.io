@@ -5,6 +5,7 @@
 <!Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.-->
 
 [Current Projects](https://github.com/Felipevn/Projects)
+<br>[Linkedin](https://www.linkedin.com/in/felipe-valente-nicolau/)
 
 <!--
 ```markdown
